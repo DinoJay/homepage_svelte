@@ -1,0 +1,12 @@
+.active {
+    // background: rgba(255,255,255,0.3);
+    cursor: grabbing;
+    cursor: -webkit-grabbing;
+    pointer-events: none;
+}
+
+.grabbing {
+    // background: rgba(255,255,255,0.3);
+    cursor: grabbing;
+    cursor: -webkit-grabbing;
+}

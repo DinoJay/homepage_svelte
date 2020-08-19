@@ -1,0 +1,152 @@
+@import "../../styles/variables.scss";
+
+$speechBubbleWidth: 200px;
+$pixelWidth: 85px;
+$strokeWidth: 2px;
+
+$w0: 70px;
+$w1: 40px;
+$w2: 30px;
+
+$pad: 5px;
+
+
+.maxGraphHeight {
+  height:500px;
+}
+
+@screens {
+  .autoGraphHeight {
+    height: 300px;
+
+  }
+
+}
+
+
+.emoji {
+  // font-size: 22px;
+}
+
+
+.balloon {
+    align-self: flex-start;
+    padding-left: 0.4rem;
+    padding-right: 0.4rem;
+    padding-top: 0.2rem;
+    padding-bottom: 0.2rem;
+    color: #333;
+    position: relative;
+    display: inline-block;
+    // margin: 20px;
+    // margin-bottom: 30px;
+    background-color: #fff;
+    box-shadow: 0 -4px #fff, 0 -8px #212529, 4px 0 #fff, 4px -4px #212529, 8px 0 #212529, 0 4px #fff, 0 8px #212529, -4px 0 #fff, -4px 4px #212529, -8px 0 #212529, -4px -4px #212529, 4px 4px #212529;
+}
+
+
+.balloon.from-right::after {
+    bottom: -18px;
+    width: 18px;
+    height: 3px;
+    margin-left: 8px;
+    background-color: #fff;
+    box-shadow: -4px 0 #212529, 4px 0 #212529, 4px 4px #fff, 0 4px #212529, 8px 4px #212529, 4px 8px #212529, 8px 8px #212529;
+
+}
+
+.balloon.from-right::before, .balloon.from-right::after {
+    right: 2rem;
+
+}
+
+.balloon::before, .balloon::after {
+    position: absolute;
+    content: "";
+
+}
+
+.balloon.from-right::before {
+    bottom: -14px;
+    width: 26px;
+    height: 10px;
+    background-color: #fff;
+    border-right: 4px solid #212529;
+    border-left: 4px solid #212529;
+}
+
+
+
+.bubble0 {
+  // position: absolute;
+
+  // z-index: 10;
+  // bottom: $pad;
+  // width: $w0 / 2;
+  // height: $w0 / 2;
+
+  // border: 1px solid #c81e2b;
+  border: $strokeWidth solid $black;
+  background: #fff;
+  border-radius: 50px;
+
+  // display: block;
+}
+
+
+.header {
+
+  .branding {
+    // display: flex;
+    // justify-content: center;
+    // position: relative;
+    // flex: 1;
+    // text-align: center;
+  }
+
+
+
+    // transform:rotate(4deg);
+
+}
+
+    .polaroid {
+      padding: 6px 6px 12px 6px;
+      box-shadow: 5px 5px 5px #BDBDBA;
+      border: $strokeWidth solid $black;
+      transform: rotate(5deg);
+    }
+
+// table,  td {
+//   border: 2px solid grey !important;
+//   padding: 4px;
+// }
+
+.centerTable {
+  margin: auto;
+  width: 100%;
+
+  // border: 3px solid #73AD21;
+  padding: 2px;
+}
+
+.myTable {
+  // @apply .border-2 .border-black;
+
+  // th {
+  //   @apply .flex;
+  // }
+
+  td, th {
+    @apply .border .border-black ;
+  }
+
+  td {
+    @apply .p-1;
+  }
+
+  th {
+    @apply .p-2 .text-xl .font-extrabold;
+  }
+
+}

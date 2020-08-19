@@ -1,0 +1,49 @@
+$bg-color: #fffbc9;
+$main-color: #fffbc9;
+.content-box {
+  position: relative;
+  // height: auto;
+  // overflow: hidden;
+  padding: 20px;
+  background: $main-color;
+  box-shadow: 0 3px 5px rgba(0,0,0,0.05);
+
+    // clip-path: polygon(0% 0%, 5%  100%, 10% 0%, 15%  100%, 20% 0%, 25% 100%, 30% 0%, 35%  100%, 40% 100%, 45%  100%, 50% 0%, 55%  100%, 60% 0%, 65%  100%, 70% 0%, 75%  100%, 80% 0%, 85%  100%, 90% 0%, 95%  100%, 100% 0%);
+
+
+   &:after {
+    content: "";
+    height: 5px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    clip-path: polygon(94% 0%, 5%  0%, 10px 0%, 15%  100%, 20% 0%, 25% 100%, 30% 0%, 35%  100%, 40% 100%, 45%  100%, 50% 0%, 55%  100%, 60% 0%, 65%  100%, 70% 0%, 75%  100%, 80% 100%, 85%  100%, 90% 0%, 95%  100%, 100% 0%);
+  }
+  &:before {
+    background-color: $bg-color;
+    top: 0;
+  }
+  &:after {
+    background-color: $bg-color;
+    bottom: -2px;
+  }
+
+   &:before {
+    content: "";
+    height: 2px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    clip-path: polygon(94% 0%, 5%  0%, 10px 0%, 15%  100%, 20% 0%, 25% 100%, 30% 0%, 35%  100%, 40% 100%, 45%  100%, 50% 0%, 55%  100%, 60% 0%, 65%  100%, 70% 0%, 75%  100%, 80% 70%, 85%  100%, 90% 0%, 95%  100%, 100% 0%);
+  }
+
+  &:before {
+    background-color: $bg-color;
+    top: -2px;
+  }
+  &:after {
+    background-color: $bg-color;
+    bottom: -5px;
+  }
+
+}

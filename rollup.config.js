@@ -3,6 +3,7 @@ import resolve from '@rollup/plugin-node-resolve';
 import commonjs from '@rollup/plugin-commonjs';
 import livereload from 'rollup-plugin-livereload';
 import { terser } from 'rollup-plugin-terser';
+// import babel from "rollup-plugin-babel";
 import sveltePreprocess from 'svelte-preprocess';
 
 const production = !process.env.ROLLUP_WATCH;
@@ -17,7 +18,7 @@ export default {
   },
   plugins: [
     svelte({
-      preprocess: sveltePreprocess({ postcss: true }),
+    preprocess: sveltePreprocess({ postcss: true }),
       // enable run-time checks when not in production
       dev: !production,
       // we'll extract any component CSS out into
@@ -26,6 +27,11 @@ export default {
         css.write('public/build/bundle.css');
       },
     }),
+
+// babel({
+// 			exclude: "node_modules/**",
+// 			presets: ["@babel/env", "@babel/preset-react"]
+// 		}),
 
     // If you have external dependencies installed from
     // npm, you'll most likely need these plugins. In

@@ -1,0 +1,3019 @@
+{
+    "pagination": {
+        "items": 164,
+        "page": 1,
+        "pages": 4,
+        "per_page": 50,
+        "urls": {
+            "last": "https://api.discogs.com/users/anarcho123/collection/folders/0/releases?sort=added&per_page=50&token=VWUpUBLQIKOsMRqMXrtPHnihphtVnyryitIMJTWt&sort_order=desc&page=4",
+            "next": "https://api.discogs.com/users/anarcho123/collection/folders/0/releases?sort=added&per_page=50&token=VWUpUBLQIKOsMRqMXrtPHnihphtVnyryitIMJTWt&sort_order=desc&page=2"
+        }
+    },
+    "releases": [
+        {
+            "basic_information": {
+                "artists": [
+                    {
+                        "anv": "",
+                        "id": 3863459,
+                        "join": ",",
+                        "name": "Adam Feingold",
+                        "resource_url": "https://api.discogs.com/artists/3863459",
+                        "role": "",
+                        "tracks": ""
+                    },
+                    {
+                        "anv": "",
+                        "id": 4624802,
+                        "join": ",",
+                        "name": "Paul Trafford",
+                        "resource_url": "https://api.discogs.com/artists/4624802",
+                        "role": "",
+                        "tracks": ""
+                    },
+                    {
+                        "anv": "",
+                        "id": 4624801,
+                        "join": "",
+                        "name": "RR Wong",
+                        "resource_url": "https://api.discogs.com/artists/4624801",
+                        "role": "",
+                        "tracks": ""
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/XHovbkmBKvnkStK3OAbrocBSX48=/fit-in/598x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7509259-1442942721-4502.png.jpg",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "12\"",
+                            "White Label"
+                        ],
+                        "name": "Vinyl",
+                        "qty": "1"
+                    }
+                ],
+                "id": 7509259,
+                "labels": [
+                    {
+                        "catno": "TMPL002",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 809288,
+                        "name": "Temple (8)",
+                        "resource_url": "https://api.discogs.com/labels/809288"
+                    }
+                ],
+                "master_id": 0,
+                "master_url": null,
+                "resource_url": "https://api.discogs.com/releases/7509259",
+                "thumb": "https://img.discogs.com/OZVJxbq1P3L3bwmYUIe-qQ97vOc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7509259-1442942721-4502.png.jpg",
+                "title": "Temple 2",
+                "year": 2015
+            },
+            "date_added": "2018-06-24T06:42:25-07:00",
+            "folder_id": 1,
+            "id": 7509259,
+            "instance_id": 306336000,
+            "notes": [
+                {
+                    "field_id": 1,
+                    "value": "Mint (M)"
+                },
+                {
+                    "field_id": 2,
+                    "value": "Generic"
+                }
+            ],
+            "rating": 0
+        },
+        {
+            "basic_information": {
+                "artists": [
+                    {
+                        "anv": "",
+                        "id": 8260,
+                        "join": "",
+                        "name": "DJ Koze",
+                        "resource_url": "https://api.discogs.com/artists/8260",
+                        "role": "",
+                        "tracks": ""
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/jm8yik4diekbmz8efInTCdD-qyU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4884953-1534663807-7278.jpeg.jpg",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "12\"",
+                            "Album",
+                            "Reissue"
+                        ],
+                        "name": "Vinyl",
+                        "qty": "2"
+                    }
+                ],
+                "id": 4884953,
+                "labels": [
+                    {
+                        "catno": "PAMPA LP009",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 169006,
+                        "name": "Pampa Records",
+                        "resource_url": "https://api.discogs.com/labels/169006"
+                    }
+                ],
+                "master_id": 68857,
+                "master_url": "https://api.discogs.com/masters/68857",
+                "resource_url": "https://api.discogs.com/releases/4884953",
+                "thumb": "https://img.discogs.com/R1t4cOYhwH8l0K6M4YqicL4z6pk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4884953-1534663807-7278.jpeg.jpg",
+                "title": "Kosi Comes Around",
+                "year": 2013
+            },
+            "date_added": "2018-06-24T06:42:25-07:00",
+            "folder_id": 1,
+            "id": 4884953,
+            "instance_id": 306335999,
+            "notes": [
+                {
+                    "field_id": 1,
+                    "value": "Mint (M)"
+                },
+                {
+                    "field_id": 2,
+                    "value": "Mint (M)"
+                }
+            ],
+            "rating": 0
+        },
+        {
+            "basic_information": {
+                "artists": [
+                    {
+                        "anv": "Zozi",
+                        "id": 5003737,
+                        "join": "",
+                        "name": "DJ Zozi",
+                        "resource_url": "https://api.discogs.com/artists/5003737",
+                        "role": "",
+                        "tracks": ""
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/-enKKp4XLFDhgnoq5cwqdNBhvRE=/fit-in/300x306/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8407126-1464242988-9643.jpeg.jpg",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "12\""
+                        ],
+                        "name": "Vinyl",
+                        "qty": "1"
+                    }
+                ],
+                "id": 8407126,
+                "labels": [
+                    {
+                        "catno": "1080V009",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 589603,
+                        "name": "1080p",
+                        "resource_url": "https://api.discogs.com/labels/589603"
+                    }
+                ],
+                "master_id": 0,
+                "master_url": null,
+                "resource_url": "https://api.discogs.com/releases/8407126",
+                "thumb": "https://img.discogs.com/Q_Ulawm6Xh86zvV05QRXXIyyzRU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8407126-1464242988-9643.jpeg.jpg",
+                "title": "Mellow Vibe ",
+                "year": 2016
+            },
+            "date_added": "2018-06-24T06:42:25-07:00",
+            "folder_id": 1,
+            "id": 8407126,
+            "instance_id": 306335997,
+            "notes": [
+                {
+                    "field_id": 1,
+                    "value": "Mint (M)"
+                },
+                {
+                    "field_id": 2,
+                    "value": "Mint (M)"
+                }
+            ],
+            "rating": 0
+        },
+        {
+            "basic_information": {
+                "artists": [
+                    {
+                        "anv": "",
+                        "id": 1564482,
+                        "join": "",
+                        "name": "Joy Orbison",
+                        "resource_url": "https://api.discogs.com/artists/1564482",
+                        "role": "",
+                        "tracks": ""
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/WixwWsrWFdZlzDwTQgCWFngz5oM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1921107-1252585707.jpeg.jpg",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "12\"",
+                            "45 RPM"
+                        ],
+                        "name": "Vinyl",
+                        "qty": "1"
+                    }
+                ],
+                "id": 1921107,
+                "labels": [
+                    {
+                        "catno": "HFT009",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 22912,
+                        "name": "Hotflush Recordings",
+                        "resource_url": "https://api.discogs.com/labels/22912"
+                    }
+                ],
+                "master_id": 188325,
+                "master_url": "https://api.discogs.com/masters/188325",
+                "resource_url": "https://api.discogs.com/releases/1921107",
+                "thumb": "https://img.discogs.com/gpADHBkQBQoO2wuZ1V2EYl10nKU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1921107-1252585707.jpeg.jpg",
+                "title": "Hyph Mngo / Wet Look",
+                "year": 2009
+            },
+            "date_added": "2018-06-24T06:42:25-07:00",
+            "folder_id": 1,
+            "id": 1921107,
+            "instance_id": 306336001,
+            "notes": [
+                {
+                    "field_id": 1,
+                    "value": "Mint (M)"
+                },
+                {
+                    "field_id": 2,
+                    "value": "Mint (M)"
+                }
+            ],
+            "rating": 0
+        },
+        {
+            "basic_information": {
+                "artists": [
+                    {
+                        "anv": "Pepe Bradock",
+                        "id": 81,
+                        "join": "",
+                        "name": "P\u00e9p\u00e9 Bradock",
+                        "resource_url": "https://api.discogs.com/artists/81",
+                        "role": "",
+                        "tracks": ""
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/EeGuksWf9urov0_jucb0BIzqX8U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7510117-1442957108-7525.jpeg.jpg",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "12\"",
+                            "33 \u2153 RPM"
+                        ],
+                        "name": "Vinyl",
+                        "qty": "1"
+                    }
+                ],
+                "id": 7510117,
+                "labels": [
+                    {
+                        "catno": "ATA 016",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 3378,
+                        "name": "Atavisme",
+                        "resource_url": "https://api.discogs.com/labels/3378"
+                    }
+                ],
+                "master_id": 931071,
+                "master_url": "https://api.discogs.com/masters/931071",
+                "resource_url": "https://api.discogs.com/releases/7510117",
+                "thumb": "https://img.discogs.com/5WcWEFUULAiynkqciTsUjmCCHyM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7510117-1442957108-7525.jpeg.jpg",
+                "title": "Le Fada",
+                "year": 2015
+            },
+            "date_added": "2018-06-24T06:42:25-07:00",
+            "folder_id": 1,
+            "id": 7510117,
+            "instance_id": 306335996,
+            "notes": [
+                {
+                    "field_id": 1,
+                    "value": "Mint (M)"
+                },
+                {
+                    "field_id": 2,
+                    "value": "Mint (M)"
+                }
+            ],
+            "rating": 0
+        },
+        {
+            "basic_information": {
+                "artists": [
+                    {
+                        "anv": "",
+                        "id": 2583,
+                        "join": "",
+                        "name": "Romanthony",
+                        "resource_url": "https://api.discogs.com/artists/2583",
+                        "role": "",
+                        "tracks": ""
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/2lFlUhIj2Welw12RQS_nM_tUPyE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5583925-1398343654-5134.jpeg.jpg",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "12\"",
+                            "33 \u2153 RPM",
+                            "Reissue",
+                            "Remastered"
+                        ],
+                        "name": "Vinyl",
+                        "qty": "1"
+                    }
+                ],
+                "id": 5583925,
+                "labels": [
+                    {
+                        "catno": "BM-006",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 2168,
+                        "name": "Black Male Records",
+                        "resource_url": "https://api.discogs.com/labels/2168"
+                    }
+                ],
+                "master_id": 4630,
+                "master_url": "https://api.discogs.com/masters/4630",
+                "resource_url": "https://api.discogs.com/releases/5583925",
+                "thumb": "https://img.discogs.com/5c8OAnWePUuNW4nhwR6W-rl2LLA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-5583925-1398343654-5134.jpeg.jpg",
+                "title": "The Wanderer",
+                "year": 2014
+            },
+            "date_added": "2018-06-24T06:42:25-07:00",
+            "folder_id": 1,
+            "id": 5583925,
+            "instance_id": 306336002,
+            "notes": [
+                {
+                    "field_id": 1,
+                    "value": "Mint (M)"
+                },
+                {
+                    "field_id": 2,
+                    "value": "Mint (M)"
+                }
+            ],
+            "rating": 0
+        },
+        {
+            "basic_information": {
+                "artists": [
+                    {
+                        "anv": "",
+                        "id": 83082,
+                        "join": "",
+                        "name": "Spacemen 3",
+                        "resource_url": "https://api.discogs.com/artists/83082",
+                        "role": "",
+                        "tracks": ""
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/SeOfz0PEXvg6uSThwC_WSV8jxZ8=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10172536-1507871642-9547.jpeg.jpg",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "LP",
+                            "Album",
+                            "Reissue"
+                        ],
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": "Red"
+                    }
+                ],
+                "id": 10172536,
+                "labels": [
+                    {
+                        "catno": "ORBIT055LP",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 9089,
+                        "name": "Space Age Recordings",
+                        "resource_url": "https://api.discogs.com/labels/9089"
+                    }
+                ],
+                "master_id": 31548,
+                "master_url": "https://api.discogs.com/masters/31548",
+                "resource_url": "https://api.discogs.com/releases/10172536",
+                "thumb": "https://img.discogs.com/dzhKQ3B8WQPL91mrg_Jw-O8TXf4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10172536-1507871642-9547.jpeg.jpg",
+                "title": "Recurring",
+                "year": 2017
+            },
+            "date_added": "2018-04-28T01:34:44-07:00",
+            "folder_id": 1,
+            "id": 10172536,
+            "instance_id": 295779139,
+            "notes": [
+                {
+                    "field_id": 1,
+                    "value": "Mint (M)"
+                },
+                {
+                    "field_id": 2,
+                    "value": "Mint (M)"
+                }
+            ],
+            "rating": 0
+        },
+        {
+            "basic_information": {
+                "artists": [
+                    {
+                        "anv": "",
+                        "id": 265488,
+                        "join": "",
+                        "name": "Thee Headcoatees",
+                        "resource_url": "https://api.discogs.com/artists/265488",
+                        "role": "",
+                        "tracks": ""
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/LNufv19xo47-O-oAvKc2RoyhsYM=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-479756-1387068581-1110.jpeg.jpg",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "LP",
+                            "Album"
+                        ],
+                        "name": "Vinyl",
+                        "qty": "1"
+                    }
+                ],
+                "id": 479756,
+                "labels": [
+                    {
+                        "catno": "ASKLP11",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 21837,
+                        "name": "Vinyl Japan",
+                        "resource_url": "https://api.discogs.com/labels/21837"
+                    }
+                ],
+                "master_id": 110591,
+                "master_url": "https://api.discogs.com/masters/110591",
+                "resource_url": "https://api.discogs.com/releases/479756",
+                "thumb": "https://img.discogs.com/TI0Tv7SMzzQd-1die9b0ZHbUlBI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-479756-1387068581-1110.jpeg.jpg",
+                "title": "Have Love Will Travel",
+                "year": 1992
+            },
+            "date_added": "2018-04-17T06:55:26-07:00",
+            "folder_id": 1,
+            "id": 479756,
+            "instance_id": 293635400,
+            "notes": [
+                {
+                    "field_id": 1,
+                    "value": "Near Mint (NM or M-)"
+                },
+                {
+                    "field_id": 2,
+                    "value": "Very Good Plus (VG+)"
+                }
+            ],
+            "rating": 0
+        },
+        {
+            "basic_information": {
+                "artists": [
+                    {
+                        "anv": "",
+                        "id": 257206,
+                        "join": "",
+                        "name": "Thee Headcoats",
+                        "resource_url": "https://api.discogs.com/artists/257206",
+                        "role": "",
+                        "tracks": ""
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/dzxZJgVwWuP3YQi4Lbt8mo5GrBw=/fit-in/220x220/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1497255-1224126480.jpeg.jpg",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "LP",
+                            "Album"
+                        ],
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": "Yellow Transparent"
+                    }
+                ],
+                "id": 1497255,
+                "labels": [
+                    {
+                        "catno": "YEAH-HUP 018",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 39674,
+                        "name": "Shakin' Street Records",
+                        "resource_url": "https://api.discogs.com/labels/39674"
+                    },
+                    {
+                        "catno": "Yeah-Hup 018",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 39674,
+                        "name": "Shakin' Street Records",
+                        "resource_url": "https://api.discogs.com/labels/39674"
+                    }
+                ],
+                "master_id": 58673,
+                "master_url": "https://api.discogs.com/masters/58673",
+                "resource_url": "https://api.discogs.com/releases/1497255",
+                "thumb": "https://img.discogs.com/vQH-fAkx4tARnD-c8TTNXKiRk1c=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1497255-1224126480.jpeg.jpg",
+                "title": "Headcoatitude",
+                "year": 1991
+            },
+            "date_added": "2018-04-17T06:55:26-07:00",
+            "folder_id": 1,
+            "id": 1497255,
+            "instance_id": 293635401,
+            "notes": [
+                {
+                    "field_id": 1,
+                    "value": "Near Mint (NM or M-)"
+                },
+                {
+                    "field_id": 2,
+                    "value": "Very Good Plus (VG+)"
+                }
+            ],
+            "rating": 0
+        },
+        {
+            "basic_information": {
+                "artists": [
+                    {
+                        "anv": "",
+                        "id": 50984,
+                        "join": "",
+                        "name": "Yo La Tengo",
+                        "resource_url": "https://api.discogs.com/artists/50984",
+                        "role": "",
+                        "tracks": ""
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/eO8_dgc4It204QbxwX52FEGlOnQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5484019-1430430221-3510.jpeg.jpg",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "LP",
+                            "Album"
+                        ],
+                        "name": "Vinyl",
+                        "qty": "2"
+                    }
+                ],
+                "id": 5484019,
+                "labels": [
+                    {
+                        "catno": "Ole 548-1",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 194,
+                        "name": "Matador",
+                        "resource_url": "https://api.discogs.com/labels/194"
+                    },
+                    {
+                        "catno": "OLE 548-1",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 194,
+                        "name": "Matador",
+                        "resource_url": "https://api.discogs.com/labels/194"
+                    }
+                ],
+                "master_id": 32496,
+                "master_url": "https://api.discogs.com/masters/32496",
+                "resource_url": "https://api.discogs.com/releases/5484019",
+                "thumb": "https://img.discogs.com/x-KicMSo3kWRGf998wZQSFeZLhg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-5484019-1430430221-3510.jpeg.jpg",
+                "title": "Summer Sun",
+                "year": 2003
+            },
+            "date_added": "2018-04-17T06:55:26-07:00",
+            "folder_id": 1,
+            "id": 5484019,
+            "instance_id": 293635402,
+            "notes": [
+                {
+                    "field_id": 1,
+                    "value": "Near Mint (NM or M-)"
+                },
+                {
+                    "field_id": 2,
+                    "value": "Very Good Plus (VG+)"
+                }
+            ],
+            "rating": 0
+        },
+        {
+            "basic_information": {
+                "artists": [
+                    {
+                        "anv": "",
+                        "id": 1552,
+                        "join": "",
+                        "name": "Chez Damier",
+                        "resource_url": "https://api.discogs.com/artists/1552",
+                        "role": "",
+                        "tracks": ""
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/lm_YJb9ULxR8CXdKCfPa9lBS6cM=/fit-in/588x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1507248-1224848236.jpeg.jpg",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "12\"",
+                            "45 RPM",
+                            "Repress"
+                        ],
+                        "name": "Vinyl",
+                        "qty": "1"
+                    }
+                ],
+                "id": 1507248,
+                "labels": [
+                    {
+                        "catno": "KMS 049",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 290,
+                        "name": "KMS",
+                        "resource_url": "https://api.discogs.com/labels/290"
+                    }
+                ],
+                "master_id": 4241,
+                "master_url": "https://api.discogs.com/masters/4241",
+                "resource_url": "https://api.discogs.com/releases/1507248",
+                "thumb": "https://img.discogs.com/jnj6ShJwT4-87oWj5j7qAh_k5Gk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1507248-1224848236.jpeg.jpg",
+                "title": "Untitled",
+                "year": 1999
+            },
+            "date_added": "2018-01-24T14:12:27-08:00",
+            "folder_id": 1,
+            "id": 1507248,
+            "instance_id": 275324192,
+            "notes": [
+                {
+                    "field_id": 1,
+                    "value": "Near Mint (NM or M-)"
+                },
+                {
+                    "field_id": 2,
+                    "value": "Near Mint (NM or M-)"
+                }
+            ],
+            "rating": 0
+        },
+        {
+            "basic_information": {
+                "artists": [
+                    {
+                        "anv": "",
+                        "id": 31980,
+                        "join": "",
+                        "name": "James Din A4",
+                        "resource_url": "https://api.discogs.com/artists/31980",
+                        "role": "",
+                        "tracks": ""
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/IhGpr3DL-PClO-ZLLnSYSrwuSZ8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-352490-1104231555.jpg.jpg",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "12\""
+                        ],
+                        "name": "Vinyl",
+                        "qty": "1"
+                    }
+                ],
+                "id": 352490,
+                "labels": [
+                    {
+                        "catno": "BG042",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 1576,
+                        "name": "Background",
+                        "resource_url": "https://api.discogs.com/labels/1576"
+                    }
+                ],
+                "master_id": 0,
+                "master_url": null,
+                "resource_url": "https://api.discogs.com/releases/352490",
+                "thumb": "https://img.discogs.com/OV79liL-A38YZT7kk2t4q-Fs6Yw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-352490-1104231555.jpg.jpg",
+                "title": "Kommune 1",
+                "year": 2004
+            },
+            "date_added": "2018-01-24T14:12:27-08:00",
+            "folder_id": 1,
+            "id": 352490,
+            "instance_id": 275324195,
+            "notes": [
+                {
+                    "field_id": 1,
+                    "value": "Very Good Plus (VG+)"
+                },
+                {
+                    "field_id": 2,
+                    "value": "Very Good Plus (VG+)"
+                }
+            ],
+            "rating": 0
+        },
+        {
+            "basic_information": {
+                "artists": [
+                    {
+                        "anv": "",
+                        "id": 81,
+                        "join": "",
+                        "name": "P\u00e9p\u00e9 Bradock",
+                        "resource_url": "https://api.discogs.com/artists/81",
+                        "role": "",
+                        "tracks": ""
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/Llz5jLR2RLt_7XbQ7JgOJKoX5Ek=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-39985-1383482227-2081.jpeg.jpg",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "12\"",
+                            "33 \u2153 RPM"
+                        ],
+                        "name": "Vinyl",
+                        "qty": "1"
+                    }
+                ],
+                "id": 39985,
+                "labels": [
+                    {
+                        "catno": "KIF.S.A 002",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 114,
+                        "name": "Kif Recordings",
+                        "resource_url": "https://api.discogs.com/labels/114"
+                    },
+                    {
+                        "catno": "BR KIF.S.A 02",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 114,
+                        "name": "Kif Recordings",
+                        "resource_url": "https://api.discogs.com/labels/114"
+                    }
+                ],
+                "master_id": 767691,
+                "master_url": "https://api.discogs.com/masters/767691",
+                "resource_url": "https://api.discogs.com/releases/39985",
+                "thumb": "https://img.discogs.com/o2_g5CkCfCmOxu5TBJUAWxBq50k=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-39985-1383482227-2081.jpeg.jpg",
+                "title": "Un P\u00e9p\u00e9 En Or Vol. 1",
+                "year": 1997
+            },
+            "date_added": "2018-01-24T14:12:27-08:00",
+            "folder_id": 1,
+            "id": 39985,
+            "instance_id": 275324193,
+            "notes": [
+                {
+                    "field_id": 1,
+                    "value": "Very Good Plus (VG+)"
+                },
+                {
+                    "field_id": 2,
+                    "value": "Very Good Plus (VG+)"
+                }
+            ],
+            "rating": 0
+        },
+        {
+            "basic_information": {
+                "artists": [
+                    {
+                        "anv": "",
+                        "id": 77002,
+                        "join": "",
+                        "name": "Roundtree",
+                        "resource_url": "https://api.discogs.com/artists/77002",
+                        "role": "",
+                        "tracks": ""
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/yUCGoe-30rX81_F6TCLCcRoIdSA=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-226918-1076144447.jpg.jpg",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "12\""
+                        ],
+                        "name": "Vinyl",
+                        "qty": "1"
+                    }
+                ],
+                "id": 226918,
+                "labels": [
+                    {
+                        "catno": "DIS030",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 1483,
+                        "name": "Discfunction",
+                        "resource_url": "https://api.discogs.com/labels/1483"
+                    }
+                ],
+                "master_id": 128719,
+                "master_url": "https://api.discogs.com/masters/128719",
+                "resource_url": "https://api.discogs.com/releases/226918",
+                "thumb": "https://img.discogs.com/cej6eknSfV6M21cVS2ACW9Z7aTo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-226918-1076144447.jpg.jpg",
+                "title": "Hit On You",
+                "year": 2003
+            },
+            "date_added": "2018-01-24T14:12:27-08:00",
+            "folder_id": 1,
+            "id": 226918,
+            "instance_id": 275324194,
+            "notes": [
+                {
+                    "field_id": 1,
+                    "value": "Very Good Plus (VG+)"
+                },
+                {
+                    "field_id": 2,
+                    "value": "Very Good Plus (VG+)"
+                }
+            ],
+            "rating": 0
+        },
+        {
+            "basic_information": {
+                "artists": [
+                    {
+                        "anv": "",
+                        "id": 194,
+                        "join": "",
+                        "name": "Various",
+                        "resource_url": "https://api.discogs.com/artists/194",
+                        "role": "",
+                        "tracks": ""
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/TLC2H6pEo0wbnxa03dqnykCk-Gs=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-160833-1479457289-5419.jpeg.jpg",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "LP",
+                            "Compilation"
+                        ],
+                        "name": "Vinyl",
+                        "qty": "2"
+                    }
+                ],
+                "id": 160833,
+                "labels": [
+                    {
+                        "catno": "SC 17",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 1495,
+                        "name": "~scape",
+                        "resource_url": "https://api.discogs.com/labels/1495"
+                    }
+                ],
+                "master_id": 106632,
+                "master_url": "https://api.discogs.com/masters/106632",
+                "resource_url": "https://api.discogs.com/releases/160833",
+                "thumb": "https://img.discogs.com/3urZ6Nc0sIcKeIQuEY5cwIvl5lU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-160833-1479457289-5419.jpeg.jpg",
+                "title": "Staedtizism 4",
+                "year": 2003
+            },
+            "date_added": "2018-01-24T14:12:27-08:00",
+            "folder_id": 1,
+            "id": 160833,
+            "instance_id": 275324196,
+            "notes": [
+                {
+                    "field_id": 1,
+                    "value": "Very Good Plus (VG+)"
+                },
+                {
+                    "field_id": 2,
+                    "value": "Very Good Plus (VG+)"
+                }
+            ],
+            "rating": 0
+        },
+        {
+            "basic_information": {
+                "artists": [
+                    {
+                        "anv": "",
+                        "id": 1207592,
+                        "join": "",
+                        "name": "Donnie & Joe Emerson",
+                        "resource_url": "https://api.discogs.com/artists/1207592",
+                        "role": "",
+                        "tracks": ""
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/oskd5hL3C5m2469VOFnAm2-WkVE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6399111-1474327032-5934.jpeg.jpg",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "LP",
+                            "Limited Edition"
+                        ],
+                        "name": "Vinyl",
+                        "qty": "1"
+                    }
+                ],
+                "id": 6399111,
+                "labels": [
+                    {
+                        "catno": "LITA 115",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 24105,
+                        "name": "Light In The Attic",
+                        "resource_url": "https://api.discogs.com/labels/24105"
+                    }
+                ],
+                "master_id": 712423,
+                "master_url": "https://api.discogs.com/masters/712423",
+                "resource_url": "https://api.discogs.com/releases/6399111",
+                "thumb": "https://img.discogs.com/_GGGf4adc7JlPGksEybrp4LjQKs=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6399111-1474327032-5934.jpeg.jpg",
+                "title": "Still Dreamin' Wild: The Lost Recordings 1979-81",
+                "year": 2014
+            },
+            "date_added": "2018-01-24T14:11:39-08:00",
+            "folder_id": 1,
+            "id": 6399111,
+            "instance_id": 275324036,
+            "notes": [
+                {
+                    "field_id": 1,
+                    "value": "Mint (M)"
+                },
+                {
+                    "field_id": 2,
+                    "value": "Mint (M)"
+                }
+            ],
+            "rating": 0
+        },
+        {
+            "basic_information": {
+                "artists": [
+                    {
+                        "anv": "",
+                        "id": 18567,
+                        "join": "",
+                        "name": "PeterLicht",
+                        "resource_url": "https://api.discogs.com/artists/18567",
+                        "role": "",
+                        "tracks": ""
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/gwi3v56ylJ0ci0baBA9KAFBWOhw=/fit-in/586x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1456920-1221150320.jpeg.jpg",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "Album"
+                        ],
+                        "name": "CD",
+                        "qty": "1"
+                    }
+                ],
+                "id": 1456920,
+                "labels": [
+                    {
+                        "catno": "MOT 09052",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 2340,
+                        "name": "Motor Music",
+                        "resource_url": "https://api.discogs.com/labels/2340"
+                    }
+                ],
+                "master_id": 0,
+                "master_url": null,
+                "resource_url": "https://api.discogs.com/releases/1456920",
+                "thumb": "https://img.discogs.com/h8R9feNBh6m3RjdxjxqsgfMiIj8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1456920-1221150320.jpeg.jpg",
+                "title": "Melancholie Und Gesellschaft",
+                "year": 2008
+            },
+            "date_added": "2018-01-24T14:11:12-08:00",
+            "folder_id": 1,
+            "id": 1456920,
+            "instance_id": 275323972,
+            "notes": [
+                {
+                    "field_id": 1,
+                    "value": "Mint (M)"
+                },
+                {
+                    "field_id": 2,
+                    "value": "Near Mint (NM or M-)"
+                }
+            ],
+            "rating": 0
+        },
+        {
+            "basic_information": {
+                "artists": [
+                    {
+                        "anv": "",
+                        "id": 18567,
+                        "join": "",
+                        "name": "PeterLicht",
+                        "resource_url": "https://api.discogs.com/artists/18567",
+                        "role": "",
+                        "tracks": ""
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/xZoIktyNs8bpBHGjmcbPJkx0r5o=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-726919-1327261608.jpeg.jpg",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "Album"
+                        ],
+                        "name": "CD",
+                        "qty": "1"
+                    }
+                ],
+                "id": 726919,
+                "labels": [
+                    {
+                        "catno": "MOT 03052",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 2340,
+                        "name": "Motor Music",
+                        "resource_url": "https://api.discogs.com/labels/2340"
+                    }
+                ],
+                "master_id": 492145,
+                "master_url": "https://api.discogs.com/masters/492145",
+                "resource_url": "https://api.discogs.com/releases/726919",
+                "thumb": "https://img.discogs.com/Ou55upyUNlqfxpgJmb-md6g_KNs=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-726919-1327261608.jpeg.jpg",
+                "title": "Lieder Vom Ende Des Kapitalismus",
+                "year": 2006
+            },
+            "date_added": "2018-01-24T14:11:12-08:00",
+            "folder_id": 1,
+            "id": 726919,
+            "instance_id": 275323971,
+            "notes": [
+                {
+                    "field_id": 1,
+                    "value": "Near Mint (NM or M-)"
+                },
+                {
+                    "field_id": 2,
+                    "value": "Near Mint (NM or M-)"
+                }
+            ],
+            "rating": 0
+        },
+        {
+            "basic_information": {
+                "artists": [
+                    {
+                        "anv": "",
+                        "id": 106340,
+                        "join": "",
+                        "name": "Larry Mison Jnr",
+                        "resource_url": "https://api.discogs.com/artists/106340",
+                        "role": "",
+                        "tracks": ""
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/25fPOK1tin-vn-iInlePQcZcS7I=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-182281-1510478947-6534.jpeg.jpg",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "12\""
+                        ],
+                        "name": "Vinyl",
+                        "qty": "1"
+                    }
+                ],
+                "id": 182281,
+                "labels": [
+                    {
+                        "catno": "GEM 249",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 57930,
+                        "name": "Gemini (2)",
+                        "resource_url": "https://api.discogs.com/labels/57930"
+                    }
+                ],
+                "master_id": 0,
+                "master_url": null,
+                "resource_url": "https://api.discogs.com/releases/182281",
+                "thumb": "https://img.discogs.com/GrDaCUDLLzv_-7A5vFHEXMXKers=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-182281-1510478947-6534.jpeg.jpg",
+                "title": "An Evening With Larry Mison Jnr",
+                "year": 0
+            },
+            "date_added": "2018-01-24T14:10:42-08:00",
+            "folder_id": 1,
+            "id": 182281,
+            "instance_id": 275323886,
+            "notes": [
+                {
+                    "field_id": 1,
+                    "value": "Very Good Plus (VG+)"
+                },
+                {
+                    "field_id": 2,
+                    "value": "Very Good Plus (VG+)"
+                }
+            ],
+            "rating": 0
+        },
+        {
+            "basic_information": {
+                "artists": [
+                    {
+                        "anv": "",
+                        "id": 2776,
+                        "join": "",
+                        "name": "Lil' Louis & The World",
+                        "resource_url": "https://api.discogs.com/artists/2776",
+                        "role": "",
+                        "tracks": ""
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/XCqmAFAFmOd8TYr-LkYoLrlby_I=/fit-in/422x418/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-33127-1144182181.jpeg.jpg",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "12\"",
+                            "33 \u2153 RPM"
+                        ],
+                        "name": "Vinyl",
+                        "qty": "1"
+                    }
+                ],
+                "id": 33127,
+                "labels": [
+                    {
+                        "catno": "49 78586",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 1005,
+                        "name": "Epic",
+                        "resource_url": "https://api.discogs.com/labels/1005"
+                    }
+                ],
+                "master_id": 0,
+                "master_url": null,
+                "resource_url": "https://api.discogs.com/releases/33127",
+                "thumb": "https://img.discogs.com/BfWAjJee86eCU_NhVhchRaM-1s8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-33127-1144182181.jpeg.jpg",
+                "title": "French Kiss / Club Lonely",
+                "year": 1997
+            },
+            "date_added": "2018-01-24T14:10:42-08:00",
+            "folder_id": 1,
+            "id": 33127,
+            "instance_id": 275323887,
+            "notes": [
+                {
+                    "field_id": 1,
+                    "value": "Very Good Plus (VG+)"
+                },
+                {
+                    "field_id": 2,
+                    "value": "Very Good Plus (VG+)"
+                }
+            ],
+            "rating": 0
+        },
+        {
+            "basic_information": {
+                "artists": [
+                    {
+                        "anv": "",
+                        "id": 1487,
+                        "join": "",
+                        "name": "Blue Boy",
+                        "resource_url": "https://api.discogs.com/artists/1487",
+                        "role": "",
+                        "tracks": ""
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/l_JC2ttILBwPtGJTxROg3LojKs8=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1247-1297874761.jpeg.jpg",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "12\"",
+                            "33 \u2153 RPM",
+                            "EP"
+                        ],
+                        "name": "Vinyl",
+                        "qty": "1"
+                    }
+                ],
+                "id": 1247,
+                "labels": [
+                    {
+                        "catno": "GDR\u2022004",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 95,
+                        "name": "Guidance Recordings",
+                        "resource_url": "https://api.discogs.com/labels/95"
+                    }
+                ],
+                "master_id": 33880,
+                "master_url": "https://api.discogs.com/masters/33880",
+                "resource_url": "https://api.discogs.com/releases/1247",
+                "thumb": "https://img.discogs.com/wjSzn0GZyTvceuaOCD6_huaOeKw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1247-1297874761.jpeg.jpg",
+                "title": "Scattered Emotions EP",
+                "year": 1996
+            },
+            "date_added": "2018-01-24T14:10:03-08:00",
+            "folder_id": 1,
+            "id": 1247,
+            "instance_id": 275323749,
+            "notes": [
+                {
+                    "field_id": 1,
+                    "value": "Very Good (VG)"
+                },
+                {
+                    "field_id": 2,
+                    "value": ""
+                }
+            ],
+            "rating": 0
+        },
+        {
+            "basic_information": {
+                "artists": [
+                    {
+                        "anv": "",
+                        "id": 2228,
+                        "join": "",
+                        "name": "The Fall",
+                        "resource_url": "https://api.discogs.com/artists/2228",
+                        "role": "",
+                        "tracks": ""
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/xVyx2-G_DNfHoc8hr6DomsghgjQ=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10026918-1522029851-1342.jpeg.jpg",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "LP",
+                            "Album",
+                            "Reissue"
+                        ],
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": "Gatefold"
+                    }
+                ],
+                "id": 10026918,
+                "labels": [
+                    {
+                        "catno": "LETV486LP",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 61373,
+                        "name": "Let Them Eat Vinyl",
+                        "resource_url": "https://api.discogs.com/labels/61373"
+                    }
+                ],
+                "master_id": 5219,
+                "master_url": "https://api.discogs.com/masters/5219",
+                "resource_url": "https://api.discogs.com/releases/10026918",
+                "thumb": "https://img.discogs.com/FYw6wH0yPlPqCh0UMyxu2x6jrQU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10026918-1522029851-1342.jpeg.jpg",
+                "title": "Grotesque (After The Gramme)",
+                "year": 2017
+            },
+            "date_added": "2018-01-24T14:10:03-08:00",
+            "folder_id": 1,
+            "id": 10026918,
+            "instance_id": 275323750,
+            "notes": [
+                {
+                    "field_id": 1,
+                    "value": "Mint (M)"
+                },
+                {
+                    "field_id": 2,
+                    "value": "Mint (M)"
+                }
+            ],
+            "rating": 0
+        },
+        {
+            "basic_information": {
+                "artists": [
+                    {
+                        "anv": "",
+                        "id": 33932,
+                        "join": "",
+                        "name": "The Pop Group",
+                        "resource_url": "https://api.discogs.com/artists/33932",
+                        "role": "",
+                        "tracks": ""
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/141TQnBPYE6F2u1nVKMVt3QMrhM=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2237106-1271543368.jpeg.jpg",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "LP",
+                            "Album",
+                            "Reissue"
+                        ],
+                        "name": "Vinyl",
+                        "qty": "1"
+                    }
+                ],
+                "id": 2237106,
+                "labels": [
+                    {
+                        "catno": "RAD 20",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 184057,
+                        "name": "Radar Records (5)",
+                        "resource_url": "https://api.discogs.com/labels/184057"
+                    }
+                ],
+                "master_id": 50200,
+                "master_url": "https://api.discogs.com/masters/50200",
+                "resource_url": "https://api.discogs.com/releases/2237106",
+                "thumb": "https://img.discogs.com/cCYC-MieucvWBhPAdMRRuFMd8RA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2237106-1271543368.jpeg.jpg",
+                "title": "Y",
+                "year": 0
+            },
+            "date_added": "2017-12-12T06:22:19-08:00",
+            "folder_id": 1,
+            "id": 2237106,
+            "instance_id": 266272260,
+            "notes": [
+                {
+                    "field_id": 1,
+                    "value": "Very Good Plus (VG+)"
+                },
+                {
+                    "field_id": 2,
+                    "value": "Near Mint (NM or M-)"
+                }
+            ],
+            "rating": 0
+        },
+        {
+            "basic_information": {
+                "artists": [
+                    {
+                        "anv": "",
+                        "id": 33930,
+                        "join": "/",
+                        "name": "The Slits",
+                        "resource_url": "https://api.discogs.com/artists/33930",
+                        "role": "",
+                        "tracks": ""
+                    },
+                    {
+                        "anv": "",
+                        "id": 33932,
+                        "join": "",
+                        "name": "The Pop Group",
+                        "resource_url": "https://api.discogs.com/artists/33932",
+                        "role": "",
+                        "tracks": ""
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/yT7yQScHOs_pCtAYfJQT_6Nl57E=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-196296-1403389559-6595.jpeg.jpg",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "7\"",
+                            "45 RPM",
+                            "Single"
+                        ],
+                        "name": "Vinyl",
+                        "qty": "1"
+                    }
+                ],
+                "id": 196296,
+                "labels": [
+                    {
+                        "catno": "Y1",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 5338,
+                        "name": "Y Records",
+                        "resource_url": "https://api.discogs.com/labels/5338"
+                    },
+                    {
+                        "catno": "RT 039A",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 51167,
+                        "name": "Rough Trade",
+                        "resource_url": "https://api.discogs.com/labels/51167"
+                    }
+                ],
+                "master_id": 516606,
+                "master_url": "https://api.discogs.com/masters/516606",
+                "resource_url": "https://api.discogs.com/releases/196296",
+                "thumb": "https://img.discogs.com/s_qZHrIpiiUHWRXpW1vpRfbRIYg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-196296-1403389559-6595.jpeg.jpg",
+                "title": "In The Beginning There Was Rhythm / Where There's A Will..",
+                "year": 1980
+            },
+            "date_added": "2017-12-12T06:21:28-08:00",
+            "folder_id": 1,
+            "id": 196296,
+            "instance_id": 266272172,
+            "notes": [
+                {
+                    "field_id": 1,
+                    "value": "Near Mint (NM or M-)"
+                },
+                {
+                    "field_id": 2,
+                    "value": "Very Good Plus (VG+)"
+                }
+            ],
+            "rating": 0
+        },
+        {
+            "basic_information": {
+                "artists": [
+                    {
+                        "anv": "",
+                        "id": 366355,
+                        "join": "",
+                        "name": "Jens Rachut",
+                        "resource_url": "https://api.discogs.com/artists/366355",
+                        "role": "",
+                        "tracks": ""
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/FAMM4HPz4mguirqqFJldt0Avxs4=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6953818-1430305995-1265.jpeg.jpg",
+                "formats": [
+                    {
+                        "name": "CD",
+                        "qty": "1"
+                    }
+                ],
+                "id": 6953818,
+                "labels": [
+                    {
+                        "catno": "078",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 91608,
+                        "name": "Major Label (2)",
+                        "resource_url": "https://api.discogs.com/labels/91608"
+                    }
+                ],
+                "master_id": 856226,
+                "master_url": "https://api.discogs.com/masters/856226",
+                "resource_url": "https://api.discogs.com/releases/6953818",
+                "thumb": "https://img.discogs.com/n61qPCFWi4alGcmvIMmoe8W5u-I=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6953818-1430305995-1265.jpeg.jpg",
+                "title": "Herzinfarkt ",
+                "year": 2015
+            },
+            "date_added": "2017-12-12T06:20:50-08:00",
+            "folder_id": 1,
+            "id": 6953818,
+            "instance_id": 266272098,
+            "notes": [
+                {
+                    "field_id": 1,
+                    "value": "Near Mint (NM or M-)"
+                },
+                {
+                    "field_id": 2,
+                    "value": "Near Mint (NM or M-)"
+                }
+            ],
+            "rating": 0
+        },
+        {
+            "basic_information": {
+                "artists": [
+                    {
+                        "anv": "",
+                        "id": 33930,
+                        "join": "",
+                        "name": "The Slits",
+                        "resource_url": "https://api.discogs.com/artists/33930",
+                        "role": "",
+                        "tracks": ""
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/OzNB3HprGFHxL60IJUYzhHYyHAE=/fit-in/600x563/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1561356-1288187653.jpeg.jpg",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "LP",
+                            "Album"
+                        ],
+                        "name": "Vinyl",
+                        "qty": "1"
+                    }
+                ],
+                "id": 1561356,
+                "labels": [
+                    {
+                        "catno": "CBS 85269",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 3072,
+                        "name": "CBS",
+                        "resource_url": "https://api.discogs.com/labels/3072"
+                    },
+                    {
+                        "catno": "85269",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 3072,
+                        "name": "CBS",
+                        "resource_url": "https://api.discogs.com/labels/3072"
+                    }
+                ],
+                "master_id": 42276,
+                "master_url": "https://api.discogs.com/masters/42276",
+                "resource_url": "https://api.discogs.com/releases/1561356",
+                "thumb": "https://img.discogs.com/YYa_Iw_sYAv7mHL7ZMe85ddPKXY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1561356-1288187653.jpeg.jpg",
+                "title": "Return Of The Giant Slits",
+                "year": 1981
+            },
+            "date_added": "2017-12-12T06:20:38-08:00",
+            "folder_id": 1,
+            "id": 1561356,
+            "instance_id": 266272079,
+            "notes": [
+                {
+                    "field_id": 1,
+                    "value": "Near Mint (NM or M-)"
+                },
+                {
+                    "field_id": 2,
+                    "value": "Very Good Plus (VG+)"
+                }
+            ],
+            "rating": 0
+        },
+        {
+            "basic_information": {
+                "artists": [
+                    {
+                        "anv": "",
+                        "id": 366355,
+                        "join": "&",
+                        "name": "Jens Rachut",
+                        "resource_url": "https://api.discogs.com/artists/366355",
+                        "role": "",
+                        "tracks": ""
+                    },
+                    {
+                        "anv": "",
+                        "id": 439214,
+                        "join": "",
+                        "name": "Jonas Landerschier",
+                        "resource_url": "https://api.discogs.com/artists/439214",
+                        "role": "",
+                        "tracks": ""
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/f_Xm6xeFFW8Cng1DTPzwsVPTFNY=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4218205-1358851718-5563.jpeg.jpg",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "Album"
+                        ],
+                        "name": "CD",
+                        "qty": "1"
+                    }
+                ],
+                "id": 4218205,
+                "labels": [
+                    {
+                        "catno": "ML059",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 91608,
+                        "name": "Major Label (2)",
+                        "resource_url": "https://api.discogs.com/labels/91608"
+                    }
+                ],
+                "master_id": 0,
+                "master_url": null,
+                "resource_url": "https://api.discogs.com/releases/4218205",
+                "thumb": "https://img.discogs.com/Pphcl2YP5fWnG0m-qtrNil-NTpU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4218205-1358851718-5563.jpeg.jpg",
+                "title": "Blinder Mond",
+                "year": 2013
+            },
+            "date_added": "2017-12-12T06:20:23-08:00",
+            "folder_id": 1,
+            "id": 4218205,
+            "instance_id": 266272044,
+            "notes": [
+                {
+                    "field_id": 1,
+                    "value": "Near Mint (NM or M-)"
+                },
+                {
+                    "field_id": 2,
+                    "value": "Very Good Plus (VG+)"
+                }
+            ],
+            "rating": 0
+        },
+        {
+            "basic_information": {
+                "artists": [
+                    {
+                        "anv": "",
+                        "id": 5454,
+                        "join": "",
+                        "name": "Liquid Liquid",
+                        "resource_url": "https://api.discogs.com/artists/5454",
+                        "role": "",
+                        "tracks": ""
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/KypyXgHdRNEiOGA5gISnzPVPdOA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7360014-1439761576-9698.jpeg.jpg",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "12\"",
+                            "45 RPM",
+                            "EP",
+                            "Reissue"
+                        ],
+                        "name": "Vinyl",
+                        "qty": "1"
+                    }
+                ],
+                "id": 7360014,
+                "labels": [
+                    {
+                        "catno": "SV089",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 287559,
+                        "name": "Superior Viaduct",
+                        "resource_url": "https://api.discogs.com/labels/287559"
+                    }
+                ],
+                "master_id": 79762,
+                "master_url": "https://api.discogs.com/masters/79762",
+                "resource_url": "https://api.discogs.com/releases/7360014",
+                "thumb": "https://img.discogs.com/YYZwCpj9gDZ01NbUJhOtHvMYHZ4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7360014-1439761576-9698.jpeg.jpg",
+                "title": "Successive Reflexes",
+                "year": 2015
+            },
+            "date_added": "2017-12-12T06:20:23-08:00",
+            "folder_id": 1,
+            "id": 7360014,
+            "instance_id": 266272045,
+            "notes": [
+                {
+                    "field_id": 1,
+                    "value": "Mint (M)"
+                },
+                {
+                    "field_id": 2,
+                    "value": "Mint (M)"
+                }
+            ],
+            "rating": 0
+        },
+        {
+            "basic_information": {
+                "artists": [
+                    {
+                        "anv": "",
+                        "id": 12834,
+                        "join": "",
+                        "name": "Devo",
+                        "resource_url": "https://api.discogs.com/artists/12834",
+                        "role": "",
+                        "tracks": ""
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/DsEXXrjXBgwZrgoR1mOtU83NdJU=/fit-in/500x498/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-432144-1443552677-6100.jpeg.jpg",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "LP",
+                            "Album"
+                        ],
+                        "name": "Vinyl",
+                        "qty": "1"
+                    }
+                ],
+                "id": 432144,
+                "labels": [
+                    {
+                        "catno": "2473 750",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 750,
+                        "name": "Virgin",
+                        "resource_url": "https://api.discogs.com/labels/750"
+                    }
+                ],
+                "master_id": 52654,
+                "master_url": "https://api.discogs.com/masters/52654",
+                "resource_url": "https://api.discogs.com/releases/432144",
+                "thumb": "https://img.discogs.com/VlWisdgIxe5_b9yfZybKM2xpikc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-432144-1443552677-6100.jpeg.jpg",
+                "title": "Q: Are We Not Men? A: We Are Devo!",
+                "year": 1978
+            },
+            "date_added": "2017-12-12T06:19:15-08:00",
+            "folder_id": 1,
+            "id": 432144,
+            "instance_id": 266271934,
+            "notes": [
+                {
+                    "field_id": 1,
+                    "value": "Near Mint (NM or M-)"
+                },
+                {
+                    "field_id": 2,
+                    "value": "Very Good Plus (VG+)"
+                }
+            ],
+            "rating": 0
+        },
+        {
+            "basic_information": {
+                "artists": [
+                    {
+                        "anv": "Torske",
+                        "id": 679,
+                        "join": "",
+                        "name": "Bj\u00f8rn Torske",
+                        "resource_url": "https://api.discogs.com/artists/679",
+                        "role": "",
+                        "tracks": ""
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/vuj7KnEaCrRJsQ6_-ccZAZeTYk8=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13090-1537612774-6070.jpeg.jpg",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "10\"",
+                            "33 \u2153 RPM"
+                        ],
+                        "name": "Vinyl",
+                        "qty": "1"
+                    }
+                ],
+                "id": 13090,
+                "labels": [
+                    {
+                        "catno": "SK036",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 5,
+                        "name": "Svek",
+                        "resource_url": "https://api.discogs.com/labels/5"
+                    }
+                ],
+                "master_id": 535623,
+                "master_url": "https://api.discogs.com/masters/535623",
+                "resource_url": "https://api.discogs.com/releases/13090",
+                "thumb": "https://img.discogs.com/5H4Q653wALpqUyED1a4LS_1nCBs=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13090-1537612774-6070.jpeg.jpg",
+                "title": "Sexy Disco",
+                "year": 1999
+            },
+            "date_added": "2017-12-12T06:18:56-08:00",
+            "folder_id": 1,
+            "id": 13090,
+            "instance_id": 266271891,
+            "notes": [
+                {
+                    "field_id": 1,
+                    "value": "Very Good Plus (VG+)"
+                },
+                {
+                    "field_id": 2,
+                    "value": "Very Good Plus (VG+)"
+                }
+            ],
+            "rating": 0
+        },
+        {
+            "basic_information": {
+                "artists": [
+                    {
+                        "anv": "Tore",
+                        "id": 190,
+                        "join": "/",
+                        "name": "Erot",
+                        "resource_url": "https://api.discogs.com/artists/190",
+                        "role": "",
+                        "tracks": ""
+                    },
+                    {
+                        "anv": "Torske",
+                        "id": 679,
+                        "join": "",
+                        "name": "Bj\u00f8rn Torske",
+                        "resource_url": "https://api.discogs.com/artists/679",
+                        "role": "",
+                        "tracks": ""
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/I_89XKKPY9gzmcN614wsJxN5-1s=/fit-in/250x248/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-402-001.jpg.jpg",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "10\""
+                        ],
+                        "name": "Vinyl",
+                        "qty": "1"
+                    }
+                ],
+                "id": 402,
+                "labels": [
+                    {
+                        "catno": "SK031",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 5,
+                        "name": "Svek",
+                        "resource_url": "https://api.discogs.com/labels/5"
+                    }
+                ],
+                "master_id": 605597,
+                "master_url": "https://api.discogs.com/masters/605597",
+                "resource_url": "https://api.discogs.com/releases/402",
+                "thumb": "https://img.discogs.com/O6q6GZeJHq8CERH36GQw4Aj3KjE=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-402-001.jpg.jpg",
+                "title": "Battlestar XB-7 / Jeg Vil V\u00e6re S\u00f8ppelmann",
+                "year": 1999
+            },
+            "date_added": "2017-12-12T06:18:56-08:00",
+            "folder_id": 1,
+            "id": 402,
+            "instance_id": 266271892,
+            "notes": [
+                {
+                    "field_id": 1,
+                    "value": "Very Good Plus (VG+)"
+                },
+                {
+                    "field_id": 2,
+                    "value": "Very Good Plus (VG+)"
+                }
+            ],
+            "rating": 0
+        },
+        {
+            "basic_information": {
+                "artists": [
+                    {
+                        "anv": "",
+                        "id": 56940,
+                        "join": "",
+                        "name": "Sound Waves",
+                        "resource_url": "https://api.discogs.com/artists/56940",
+                        "role": "",
+                        "tracks": ""
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/CZQSXYnVwKl1_yQUu7mitxQyYik=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-95989-1487773413-6429.jpeg.jpg",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "12\"",
+                            "33 \u2153 RPM"
+                        ],
+                        "name": "Vinyl",
+                        "qty": "1"
+                    }
+                ],
+                "id": 95989,
+                "labels": [
+                    {
+                        "catno": "SR 1243",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 609,
+                        "name": "Strictly Rhythm",
+                        "resource_url": "https://api.discogs.com/labels/609"
+                    }
+                ],
+                "master_id": 142696,
+                "master_url": "https://api.discogs.com/masters/142696",
+                "resource_url": "https://api.discogs.com/releases/95989",
+                "thumb": "https://img.discogs.com/wEw_2B4JBZYwvSt1muXA2Zo2K30=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-95989-1487773413-6429.jpeg.jpg",
+                "title": "I Wanna Feel The Music / Gotta Have You",
+                "year": 1991
+            },
+            "date_added": "2017-12-12T06:18:56-08:00",
+            "folder_id": 1,
+            "id": 95989,
+            "instance_id": 266271893,
+            "notes": [
+                {
+                    "field_id": 1,
+                    "value": "Very Good Plus (VG+)"
+                },
+                {
+                    "field_id": 2,
+                    "value": "Generic"
+                }
+            ],
+            "rating": 0
+        },
+        {
+            "basic_information": {
+                "artists": [
+                    {
+                        "anv": "",
+                        "id": 26459,
+                        "join": "",
+                        "name": "Low Key",
+                        "resource_url": "https://api.discogs.com/artists/26459",
+                        "role": "",
+                        "tracks": ""
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/MeW-q603tiTUXhMUAW8DcTE4LzY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-33618-1510638461-2560.jpeg.jpg",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "12\""
+                        ],
+                        "name": "Vinyl",
+                        "qty": "1"
+                    }
+                ],
+                "id": 33618,
+                "labels": [
+                    {
+                        "catno": "SG 005",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 2423,
+                        "name": "Serious Grooves",
+                        "resource_url": "https://api.discogs.com/labels/2423"
+                    }
+                ],
+                "master_id": 0,
+                "master_url": null,
+                "resource_url": "https://api.discogs.com/releases/33618",
+                "thumb": "https://img.discogs.com/M2elriVq-t6BmSZZJoz8NvxqSqY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-33618-1510638461-2560.jpeg.jpg",
+                "title": "I Cant Stop",
+                "year": 1993
+            },
+            "date_added": "2017-12-12T06:18:55-08:00",
+            "folder_id": 1,
+            "id": 33618,
+            "instance_id": 266271890,
+            "notes": [
+                {
+                    "field_id": 1,
+                    "value": "Very Good Plus (VG+)"
+                },
+                {
+                    "field_id": 2,
+                    "value": "Generic"
+                }
+            ],
+            "rating": 0
+        },
+        {
+            "basic_information": {
+                "artists": [
+                    {
+                        "anv": "",
+                        "id": 233784,
+                        "join": "",
+                        "name": "Orange Juice (3)",
+                        "resource_url": "https://api.discogs.com/artists/233784",
+                        "role": "",
+                        "tracks": ""
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/rKG15Mp2wody1eXxJb6Xpo22AoY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2321996-1415562658-8339.jpeg.jpg",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "LP",
+                            "Album"
+                        ],
+                        "name": "Vinyl",
+                        "qty": "1"
+                    }
+                ],
+                "id": 2321996,
+                "labels": [
+                    {
+                        "catno": "2383 651",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 1610,
+                        "name": "Polydor",
+                        "resource_url": "https://api.discogs.com/labels/1610"
+                    }
+                ],
+                "master_id": 220713,
+                "master_url": "https://api.discogs.com/masters/220713",
+                "resource_url": "https://api.discogs.com/releases/2321996",
+                "thumb": "https://img.discogs.com/gwQEyRuNfaS7vjNJuN096OGL_3c=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2321996-1415562658-8339.jpeg.jpg",
+                "title": "Rip It Up",
+                "year": 1982
+            },
+            "date_added": "2017-12-12T06:18:42-08:00",
+            "folder_id": 1,
+            "id": 2321996,
+            "instance_id": 266271870,
+            "notes": [
+                {
+                    "field_id": 1,
+                    "value": "Very Good Plus (VG+)"
+                },
+                {
+                    "field_id": 2,
+                    "value": "Very Good Plus (VG+)"
+                }
+            ],
+            "rating": 0
+        },
+        {
+            "basic_information": {
+                "artists": [
+                    {
+                        "anv": "",
+                        "id": 39033,
+                        "join": "",
+                        "name": "House Of Jazz",
+                        "resource_url": "https://api.discogs.com/artists/39033",
+                        "role": "",
+                        "tracks": ""
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/xejU6Q0Pq2XXVh13kwIsa40hGW4=/fit-in/600x478/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-257523-1504979657-5947.jpeg.jpg",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "12\"",
+                            "33 \u2153 RPM"
+                        ],
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": " "
+                    }
+                ],
+                "id": 257523,
+                "labels": [
+                    {
+                        "catno": "LB 100",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 2392,
+                        "name": "Lazyboy Records",
+                        "resource_url": "https://api.discogs.com/labels/2392"
+                    }
+                ],
+                "master_id": 0,
+                "master_url": null,
+                "resource_url": "https://api.discogs.com/releases/257523",
+                "thumb": "https://img.discogs.com/wE1a-ADYhbxgTn70oTtdF66LB-4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-257523-1504979657-5947.jpeg.jpg",
+                "title": "A House Of Jazz Mix",
+                "year": 1993
+            },
+            "date_added": "2017-12-12T06:18:21-08:00",
+            "folder_id": 1,
+            "id": 257523,
+            "instance_id": 266271840,
+            "notes": [
+                {
+                    "field_id": 1,
+                    "value": "Very Good Plus (VG+)"
+                },
+                {
+                    "field_id": 2,
+                    "value": "Very Good Plus (VG+)"
+                }
+            ],
+            "rating": 0
+        },
+        {
+            "basic_information": {
+                "artists": [
+                    {
+                        "anv": "",
+                        "id": 26459,
+                        "join": "",
+                        "name": "Low Key",
+                        "resource_url": "https://api.discogs.com/artists/26459",
+                        "role": "",
+                        "tracks": ""
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/tuOvCM7tUNM46eslzDFufDAz_aY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-38023-1355819706-7919.jpeg.jpg",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "12\"",
+                            "Limited Edition",
+                            "33 \u2153 RPM"
+                        ],
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": "Orange"
+                    }
+                ],
+                "id": 38023,
+                "labels": [
+                    {
+                        "catno": "SGT2",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 2423,
+                        "name": "Serious Grooves",
+                        "resource_url": "https://api.discogs.com/labels/2423"
+                    }
+                ],
+                "master_id": 86929,
+                "master_url": "https://api.discogs.com/masters/86929",
+                "resource_url": "https://api.discogs.com/releases/38023",
+                "thumb": "https://img.discogs.com/ZWOIYddzXwMDbkezGGJToJzZ47U=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-38023-1355819706-7919.jpeg.jpg",
+                "title": "Try Me Baby",
+                "year": 1993
+            },
+            "date_added": "2017-12-12T06:18:21-08:00",
+            "folder_id": 1,
+            "id": 38023,
+            "instance_id": 266271839,
+            "notes": [
+                {
+                    "field_id": 1,
+                    "value": "Very Good Plus (VG+)"
+                },
+                {
+                    "field_id": 2,
+                    "value": "Very Good Plus (VG+)"
+                }
+            ],
+            "rating": 0
+        },
+        {
+            "basic_information": {
+                "artists": [
+                    {
+                        "anv": "",
+                        "id": 28124,
+                        "join": "",
+                        "name": "Classic Man",
+                        "resource_url": "https://api.discogs.com/artists/28124",
+                        "role": "",
+                        "tracks": ""
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/SRsXYyhd6Ez1M1NoZNuLz7WwOIA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6584439-1431468932-3659.jpeg.jpg",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "12\"",
+                            "33 \u2153 RPM",
+                            "Reissue",
+                            "Remastered"
+                        ],
+                        "name": "Vinyl",
+                        "qty": "1"
+                    }
+                ],
+                "id": 6584439,
+                "labels": [
+                    {
+                        "catno": "NER 20012",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 251,
+                        "name": "Nervous Records",
+                        "resource_url": "https://api.discogs.com/labels/251"
+                    }
+                ],
+                "master_id": 555908,
+                "master_url": "https://api.discogs.com/masters/555908",
+                "resource_url": "https://api.discogs.com/releases/6584439",
+                "thumb": "https://img.discogs.com/el2a7apgNUaIYTpGaMdERuDHttY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6584439-1431468932-3659.jpeg.jpg",
+                "title": "Mellow / Love",
+                "year": 2015
+            },
+            "date_added": "2017-12-12T06:17:36-08:00",
+            "folder_id": 1,
+            "id": 6584439,
+            "instance_id": 266271743,
+            "notes": [
+                {
+                    "field_id": 1,
+                    "value": "Mint (M)"
+                },
+                {
+                    "field_id": 2,
+                    "value": "Mint (M)"
+                }
+            ],
+            "rating": 0
+        },
+        {
+            "basic_information": {
+                "artists": [
+                    {
+                        "anv": "",
+                        "id": 388,
+                        "join": "",
+                        "name": "Stereolab",
+                        "resource_url": "https://api.discogs.com/artists/388",
+                        "role": "",
+                        "tracks": ""
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/qiS-IFZPAZNX52Qi_1aWkcO1H4o=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-341152-1478205946-9815.jpeg.jpg",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "LP",
+                            "Album"
+                        ],
+                        "name": "Vinyl",
+                        "qty": "1"
+                    }
+                ],
+                "id": 341152,
+                "labels": [
+                    {
+                        "catno": "PURE LP 11",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 1002,
+                        "name": "Too Pure",
+                        "resource_url": "https://api.discogs.com/labels/1002"
+                    }
+                ],
+                "master_id": 21198,
+                "master_url": "https://api.discogs.com/masters/21198",
+                "resource_url": "https://api.discogs.com/releases/341152",
+                "thumb": "https://img.discogs.com/JfWSJKnejDMhxmDvx6F25ky5Uns=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-341152-1478205946-9815.jpeg.jpg",
+                "title": "Peng!",
+                "year": 1992
+            },
+            "date_added": "2017-12-12T06:17:36-08:00",
+            "folder_id": 1,
+            "id": 341152,
+            "instance_id": 266271742,
+            "notes": [
+                {
+                    "field_id": 1,
+                    "value": "Near Mint (NM or M-)"
+                },
+                {
+                    "field_id": 2,
+                    "value": "Very Good Plus (VG+)"
+                }
+            ],
+            "rating": 0
+        },
+        {
+            "basic_information": {
+                "artists": [
+                    {
+                        "anv": "",
+                        "id": 27305,
+                        "join": "",
+                        "name": "Smith N Hack",
+                        "resource_url": "https://api.discogs.com/artists/27305",
+                        "role": "",
+                        "tracks": ""
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/Qx5y3d3zFek0mJSW3Sc3FjDpfDM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-35150-1157483966.jpeg.jpg",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "LP"
+                        ],
+                        "name": "Vinyl",
+                        "qty": "2"
+                    }
+                ],
+                "id": 35150,
+                "labels": [
+                    {
+                        "catno": "TRIBUTE",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 19462,
+                        "name": "Smith N Hack",
+                        "resource_url": "https://api.discogs.com/labels/19462"
+                    }
+                ],
+                "master_id": 0,
+                "master_url": null,
+                "resource_url": "https://api.discogs.com/releases/35150",
+                "thumb": "https://img.discogs.com/831f7b3z2w-OksT540zy-8aYsLM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-35150-1157483966.jpeg.jpg",
+                "title": "Tribute",
+                "year": 2002
+            },
+            "date_added": "2017-12-12T06:16:39-08:00",
+            "folder_id": 1,
+            "id": 35150,
+            "instance_id": 266271656,
+            "notes": [
+                {
+                    "field_id": 1,
+                    "value": "Near Mint (NM or M-)"
+                },
+                {
+                    "field_id": 2,
+                    "value": "Near Mint (NM or M-)"
+                }
+            ],
+            "rating": 0
+        },
+        {
+            "basic_information": {
+                "artists": [
+                    {
+                        "anv": "",
+                        "id": 81,
+                        "join": "",
+                        "name": "P\u00e9p\u00e9 Bradock",
+                        "resource_url": "https://api.discogs.com/artists/81",
+                        "role": "",
+                        "tracks": ""
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/BQO0LRRA73FUZhnNxrWCKd4rpck=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-157183-1270204214.jpeg.jpg",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "12\"",
+                            "45 RPM"
+                        ],
+                        "name": "Vinyl",
+                        "qty": "1"
+                    }
+                ],
+                "id": 157183,
+                "labels": [
+                    {
+                        "catno": "ATA 004",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 3378,
+                        "name": "Atavisme",
+                        "resource_url": "https://api.discogs.com/labels/3378"
+                    }
+                ],
+                "master_id": 210809,
+                "master_url": "https://api.discogs.com/masters/210809",
+                "resource_url": "https://api.discogs.com/releases/157183",
+                "thumb": "https://img.discogs.com/L8qVsZTddf5y8nFP6YQrQBjm3Rk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-157183-1270204214.jpeg.jpg",
+                "title": "4",
+                "year": 2003
+            },
+            "date_added": "2017-12-12T06:16:10-08:00",
+            "folder_id": 1,
+            "id": 157183,
+            "instance_id": 266271593,
+            "notes": [
+                {
+                    "field_id": 1,
+                    "value": "Very Good Plus (VG+)"
+                },
+                {
+                    "field_id": 2,
+                    "value": "Very Good Plus (VG+)"
+                }
+            ],
+            "rating": 0
+        },
+        {
+            "basic_information": {
+                "artists": [
+                    {
+                        "anv": "",
+                        "id": 34454,
+                        "join": "vs.",
+                        "name": "International Pony",
+                        "resource_url": "https://api.discogs.com/artists/34454",
+                        "role": "",
+                        "tracks": ""
+                    },
+                    {
+                        "anv": "",
+                        "id": 1531,
+                        "join": "",
+                        "name": "LoSoul",
+                        "resource_url": "https://api.discogs.com/artists/1531",
+                        "role": "",
+                        "tracks": ""
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/QIJlp2A5y5VWLiN2DgGg-SmUAYg=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-124518-1152112362.jpeg.jpg",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "12\""
+                        ],
+                        "name": "Vinyl",
+                        "qty": "1"
+                    }
+                ],
+                "id": 124518,
+                "labels": [
+                    {
+                        "catno": "70",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 361,
+                        "name": "Playhouse",
+                        "resource_url": "https://api.discogs.com/labels/361"
+                    }
+                ],
+                "master_id": 1084522,
+                "master_url": "https://api.discogs.com/masters/1084522",
+                "resource_url": "https://api.discogs.com/releases/124518",
+                "thumb": "https://img.discogs.com/gCjQiyPOG2YUeWltFVpSl73s7jM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-124518-1152112362.jpeg.jpg",
+                "title": "International Snootleg",
+                "year": 2003
+            },
+            "date_added": "2017-12-09T16:18:54-08:00",
+            "folder_id": 1,
+            "id": 124518,
+            "instance_id": 265809580,
+            "notes": [
+                {
+                    "field_id": 1,
+                    "value": "Very Good Plus (VG+)"
+                },
+                {
+                    "field_id": 2,
+                    "value": "Generic"
+                }
+            ],
+            "rating": 0
+        },
+        {
+            "basic_information": {
+                "artists": [
+                    {
+                        "anv": "",
+                        "id": 208750,
+                        "join": "",
+                        "name": "Levon Vincent",
+                        "resource_url": "https://api.discogs.com/artists/208750",
+                        "role": "",
+                        "tracks": ""
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/ggP-oK0SZofM9rKm_wsGZWdIfpQ=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9419583-1480442921-6434.jpeg.jpg",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "12\"",
+                            "33 \u2153 RPM",
+                            "White Label"
+                        ],
+                        "name": "Vinyl",
+                        "qty": "1"
+                    }
+                ],
+                "id": 9419583,
+                "labels": [
+                    {
+                        "catno": "NS-15",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 124126,
+                        "name": "Novel Sound",
+                        "resource_url": "https://api.discogs.com/labels/124126"
+                    }
+                ],
+                "master_id": 0,
+                "master_url": null,
+                "resource_url": "https://api.discogs.com/releases/9419583",
+                "thumb": "https://img.discogs.com/eelZnQ9iBxb4duduHr-iL44ydVo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-9419583-1480442921-6434.jpeg.jpg",
+                "title": "NYC-BERLIN DIALOGUES 2016",
+                "year": 2016
+            },
+            "date_added": "2017-12-09T16:18:54-08:00",
+            "folder_id": 1,
+            "id": 9419583,
+            "instance_id": 265809585,
+            "notes": [
+                {
+                    "field_id": 1,
+                    "value": "Mint (M)"
+                },
+                {
+                    "field_id": 2,
+                    "value": "Mint (M)"
+                }
+            ],
+            "rating": 0
+        },
+        {
+            "basic_information": {
+                "artists": [
+                    {
+                        "anv": "",
+                        "id": 1982,
+                        "join": "",
+                        "name": "Mark Seven",
+                        "resource_url": "https://api.discogs.com/artists/1982",
+                        "role": "",
+                        "tracks": ""
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/0vTh4TYQgmxeyj7nuvYV68xB4wg=/fit-in/490x495/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10967350-1507374914-1479.png.jpg",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "12\"",
+                            "33 \u2153 RPM"
+                        ],
+                        "name": "Vinyl",
+                        "qty": "1"
+                    }
+                ],
+                "id": 10967350,
+                "labels": [
+                    {
+                        "catno": "WB004-12",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 1057379,
+                        "name": "World Building",
+                        "resource_url": "https://api.discogs.com/labels/1057379"
+                    }
+                ],
+                "master_id": 1264911,
+                "master_url": "https://api.discogs.com/masters/1264911",
+                "resource_url": "https://api.discogs.com/releases/10967350",
+                "thumb": "https://img.discogs.com/aV4beHYkRyzV7VQz8FdoUuMELS8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10967350-1507374914-1479.png.jpg",
+                "title": "The Promised Land",
+                "year": 2017
+            },
+            "date_added": "2017-12-09T16:18:54-08:00",
+            "folder_id": 1,
+            "id": 10967350,
+            "instance_id": 265809584,
+            "notes": [
+                {
+                    "field_id": 1,
+                    "value": "Mint (M)"
+                },
+                {
+                    "field_id": 2,
+                    "value": "Mint (M)"
+                }
+            ],
+            "rating": 0
+        },
+        {
+            "basic_information": {
+                "artists": [
+                    {
+                        "anv": "",
+                        "id": 1094,
+                        "join": "",
+                        "name": "Moodymann",
+                        "resource_url": "https://api.discogs.com/artists/1094",
+                        "role": "",
+                        "tracks": ""
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/k_tru19JHd-ZoFFF4H1mL3FfLNs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11083148-1509554460-3499.jpeg.jpg",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "12\"",
+                            "33 \u2153 RPM",
+                            "Album",
+                            "Reissue"
+                        ],
+                        "name": "Vinyl",
+                        "qty": "2",
+                        "text": "180 gr."
+                    }
+                ],
+                "id": 11083148,
+                "labels": [
+                    {
+                        "catno": "PF095",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 253,
+                        "name": "Peacefrog Records",
+                        "resource_url": "https://api.discogs.com/labels/253"
+                    }
+                ],
+                "master_id": 6223,
+                "master_url": "https://api.discogs.com/masters/6223",
+                "resource_url": "https://api.discogs.com/releases/11083148",
+                "thumb": "https://img.discogs.com/ddgvJMiftI8jmJ0Ple_AVla2L88=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11083148-1509554460-3499.jpeg.jpg",
+                "title": "Forevernevermore",
+                "year": 2017
+            },
+            "date_added": "2017-12-09T16:18:54-08:00",
+            "folder_id": 1,
+            "id": 11083148,
+            "instance_id": 265809583,
+            "notes": [
+                {
+                    "field_id": 1,
+                    "value": "Mint (M)"
+                },
+                {
+                    "field_id": 2,
+                    "value": "Mint (M)"
+                }
+            ],
+            "rating": 0
+        },
+        {
+            "basic_information": {
+                "artists": [
+                    {
+                        "anv": "",
+                        "id": 81,
+                        "join": "",
+                        "name": "P\u00e9p\u00e9 Bradock",
+                        "resource_url": "https://api.discogs.com/artists/81",
+                        "role": "",
+                        "tracks": ""
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/DcwUNoD5R1nkyzKNbKU6DRuVAEs=/fit-in/600x611/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9038054-1474000756-9298.jpeg.jpg",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "12\"",
+                            "Limited Edition",
+                            "Numbered"
+                        ],
+                        "name": "Vinyl",
+                        "qty": "1"
+                    }
+                ],
+                "id": 9038054,
+                "labels": [
+                    {
+                        "catno": "ATA003",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 3378,
+                        "name": "Atavisme",
+                        "resource_url": "https://api.discogs.com/labels/3378"
+                    },
+                    {
+                        "catno": "ATA 03",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 3378,
+                        "name": "Atavisme",
+                        "resource_url": "https://api.discogs.com/labels/3378"
+                    }
+                ],
+                "master_id": 0,
+                "master_url": null,
+                "resource_url": "https://api.discogs.com/releases/9038054",
+                "thumb": "https://img.discogs.com/G1a6xF8xQE-jhPYYapiKo-wd_FQ=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-9038054-1474000756-9298.jpeg.jpg",
+                "title": "Baby Craddock ",
+                "year": 2016
+            },
+            "date_added": "2017-12-09T16:18:54-08:00",
+            "folder_id": 1,
+            "id": 9038054,
+            "instance_id": 265809582,
+            "notes": [
+                {
+                    "field_id": 1,
+                    "value": "Mint (M)"
+                },
+                {
+                    "field_id": 2,
+                    "value": "Mint (M)"
+                }
+            ],
+            "rating": 0
+        },
+        {
+            "basic_information": {
+                "artists": [
+                    {
+                        "anv": "",
+                        "id": 81,
+                        "join": "",
+                        "name": "P\u00e9p\u00e9 Bradock",
+                        "resource_url": "https://api.discogs.com/artists/81",
+                        "role": "",
+                        "tracks": ""
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/zvwtrNfuMM-Vu4Ru5l_aNp5RDLg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10907916-1506707710-3360.jpeg.jpg",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "12\""
+                        ],
+                        "name": "Vinyl",
+                        "qty": "1"
+                    }
+                ],
+                "id": 10907916,
+                "labels": [
+                    {
+                        "catno": "ATA017",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 3378,
+                        "name": "Atavisme",
+                        "resource_url": "https://api.discogs.com/labels/3378"
+                    }
+                ],
+                "master_id": 0,
+                "master_url": null,
+                "resource_url": "https://api.discogs.com/releases/10907916",
+                "thumb": "https://img.discogs.com/egpr0zXn3BgKZaanb7oIv_2V-6E=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10907916-1506707710-3360.jpeg.jpg",
+                "title": "#12\"@Last",
+                "year": 2017
+            },
+            "date_added": "2017-12-09T16:18:54-08:00",
+            "folder_id": 1,
+            "id": 10907916,
+            "instance_id": 265809581,
+            "notes": [
+                {
+                    "field_id": 1,
+                    "value": "Mint (M)"
+                },
+                {
+                    "field_id": 2,
+                    "value": "Mint (M)"
+                }
+            ],
+            "rating": 0
+        },
+        {
+            "basic_information": {
+                "artists": [
+                    {
+                        "anv": "",
+                        "id": 34336,
+                        "join": "aka",
+                        "name": "MMM",
+                        "resource_url": "https://api.discogs.com/artists/34336",
+                        "role": "",
+                        "tracks": ""
+                    },
+                    {
+                        "anv": "",
+                        "id": 1659,
+                        "join": "&",
+                        "name": "Errorsmith",
+                        "resource_url": "https://api.discogs.com/artists/1659",
+                        "role": "",
+                        "tracks": ""
+                    },
+                    {
+                        "anv": "",
+                        "id": 346540,
+                        "join": "",
+                        "name": "Fiedel",
+                        "resource_url": "https://api.discogs.com/artists/346540",
+                        "role": "",
+                        "tracks": ""
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/cuQhthg16Pl_v3nXp14iiAlZFAg=/fit-in/498x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-57478-1131202826.jpeg.jpg",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "12\"",
+                            "33 \u2153 RPM",
+                            "45 RPM",
+                            "White Label"
+                        ],
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": "Stamped"
+                    }
+                ],
+                "id": 57478,
+                "labels": [
+                    {
+                        "catno": "MMM 2",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 5017,
+                        "name": "MMM",
+                        "resource_url": "https://api.discogs.com/labels/5017"
+                    }
+                ],
+                "master_id": 797297,
+                "master_url": "https://api.discogs.com/masters/797297",
+                "resource_url": "https://api.discogs.com/releases/57478",
+                "thumb": "https://img.discogs.com/blOA55EnHdKWtmeIdVV4CVXMLPo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-57478-1131202826.jpeg.jpg",
+                "title": "Donna",
+                "year": 1997
+            },
+            "date_added": "2017-11-29T15:31:33-08:00",
+            "folder_id": 1,
+            "id": 57478,
+            "instance_id": 263995283,
+            "notes": [
+                {
+                    "field_id": 1,
+                    "value": "Very Good Plus (VG+)"
+                },
+                {
+                    "field_id": 2,
+                    "value": "Generic"
+                }
+            ],
+            "rating": 0
+        },
+        {
+            "basic_information": {
+                "artists": [
+                    {
+                        "anv": "",
+                        "id": 4921762,
+                        "join": "",
+                        "name": "Montezumas Rache (2)",
+                        "resource_url": "https://api.discogs.com/artists/4921762",
+                        "role": "",
+                        "tracks": ""
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/BtN4hsJuH6UTmZMXL4AA6huwWbE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5725071-1506887467-6402.jpeg.jpg",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "12\"",
+                            "33 \u2153 RPM",
+                            "Single Sided",
+                            "White Label"
+                        ],
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": "Stamped"
+                    }
+                ],
+                "id": 5725071,
+                "labels": [
+                    {
+                        "catno": "SC001",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 694286,
+                        "name": "Second Circle",
+                        "resource_url": "https://api.discogs.com/labels/694286"
+                    }
+                ],
+                "master_id": 1107368,
+                "master_url": "https://api.discogs.com/masters/1107368",
+                "resource_url": "https://api.discogs.com/releases/5725071",
+                "thumb": "https://img.discogs.com/1b6k7F8h-YZX1IGy5yAyrh80zHE=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-5725071-1506887467-6402.jpeg.jpg",
+                "title": "Wu Du Wu",
+                "year": 2014
+            },
+            "date_added": "2017-10-08T10:25:16-07:00",
+            "folder_id": 1,
+            "id": 5725071,
+            "instance_id": 254274947,
+            "rating": 0
+        },
+        {
+            "basic_information": {
+                "artists": [
+                    {
+                        "anv": "",
+                        "id": 26992,
+                        "join": "",
+                        "name": "Palais Schaumburg",
+                        "resource_url": "https://api.discogs.com/artists/26992",
+                        "role": "",
+                        "tracks": ""
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/5c0QotLQ_BnZNI2OWCHpfQdqEfE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-116250-1450126271-5807.jpeg.jpg",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "LP",
+                            "Album"
+                        ],
+                        "name": "Vinyl",
+                        "qty": "1"
+                    }
+                ],
+                "id": 116250,
+                "labels": [
+                    {
+                        "catno": "6435 139",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 869348,
+                        "name": "Palais Schaumburg",
+                        "resource_url": "https://api.discogs.com/labels/869348"
+                    }
+                ],
+                "master_id": 89301,
+                "master_url": "https://api.discogs.com/masters/89301",
+                "resource_url": "https://api.discogs.com/releases/116250",
+                "thumb": "https://img.discogs.com/mchMO-Gx2ckpRVB5ndUctL1Ko9U=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-116250-1450126271-5807.jpeg.jpg",
+                "title": "Palais Schaumburg",
+                "year": 1981
+            },
+            "date_added": "2017-10-08T10:25:16-07:00",
+            "folder_id": 1,
+            "id": 116250,
+            "instance_id": 254274946,
+            "rating": 0
+        },
+        {
+            "basic_information": {
+                "artists": [
+                    {
+                        "anv": "",
+                        "id": 26992,
+                        "join": "",
+                        "name": "Palais Schaumburg",
+                        "resource_url": "https://api.discogs.com/artists/26992",
+                        "role": "",
+                        "tracks": ""
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/8oJzo3QExD-CqQXOERvFArMljd4=/fit-in/297x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-84960-1076244780.jpg.jpg",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "12\"",
+                            "Maxi-Single",
+                            "45 RPM"
+                        ],
+                        "name": "Vinyl",
+                        "qty": "1"
+                    }
+                ],
+                "id": 84960,
+                "labels": [
+                    {
+                        "catno": "6400 560",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 19050,
+                        "name": "Phonogram",
+                        "resource_url": "https://api.discogs.com/labels/19050"
+                    }
+                ],
+                "master_id": 94042,
+                "master_url": "https://api.discogs.com/masters/94042",
+                "resource_url": "https://api.discogs.com/releases/84960",
+                "thumb": "https://img.discogs.com/xVWZ2b5dQ7rRh5Hga3kRVmhzOW0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-84960-1076244780.jpg.jpg",
+                "title": "Wir Bauen Eine Neue Stadt",
+                "year": 1982
+            },
+            "date_added": "2017-10-08T10:25:15-07:00",
+            "folder_id": 1,
+            "id": 84960,
+            "instance_id": 254274936,
+            "rating": 0
+        }
+    ]
+}

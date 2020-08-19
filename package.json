@@ -25,7 +25,17 @@
     "tailwindcss": "^1.4.6"
   },
   "dependencies": {
+    "@babel/core": "^7.11.1",
+    "@babel/plugin-transform-react-jsx": "^7.10.4",
+    "@babel/preset-env": "^7.11.0",
+    "@babel/preset-react": "^7.10.4",
+    "babel": "^6.23.0",
     "clsx": "^1.1.1",
-    "sirv-cli": "^0.4.4"
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "rollup-plugin-babel": "^4.4.0",
+    "sirv-cli": "^0.4.4",
+    "svelte-routing": "^1.4.2",
+    "svelte-spa-router": "^2.2.0"
   }
 }

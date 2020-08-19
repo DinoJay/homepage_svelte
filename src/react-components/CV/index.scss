@@ -1,0 +1,21 @@
+.note {
+  @apply .cursor-pointer;
+  // cursor: pointer;
+  opacity: 1;
+  // transition: opacity .2s;
+}
+
+
+.noteDisabled {
+  opacity: 0.1;
+  // transition: opacity .3s;
+}
+
+.noteOff {
+  opacity: 0;
+}
+
+.noteFocused .annotation-note .annotation-note-content .annotation-note-bg {
+  fill: white !important;
+  fill-opacity: 1 !important;
+}
