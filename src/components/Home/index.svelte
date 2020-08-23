@@ -1,4 +1,10 @@
 
+<script>
+  import SomethingAboutMe from './SomethingAboutMe.svelte';
+  import AboutVis from './AboutVis.svelte'
+
+</script>
+
 <style>
   .maxGraphHeight {
     height:500px;
@@ -58,7 +64,7 @@
   }
 
   .bubble0 {
-    border: $strokeWidth solid $black;
+    border: 2px solid black;
     background: #fff;
     border-radius: 50px;
   }
@@ -66,7 +72,7 @@
   .polaroid {
     padding: 6px 6px 12px 6px;
     box-shadow: 5px 5px 5px #BDBDBA;
-    border: $strokeWidth solid $black;
+    border: 2px solid black;
     transform: rotate(5deg);
   }
 
@@ -77,41 +83,33 @@
     padding: 2px;
   }
 
-  .myTable {
-    td, th {
-      @apply .border .border-black ;
-    }
+  .myTable td, th {
+    @apply .border .border-black;
+  }
 
-    td {
+    .myTable td {
       @apply .p-1;
     }
 
-    th {
+    .myTable th {
       @apply .p-2 .text-xl .font-extrabold;
     }
-  }
+
 </style>
 
 <div class="flex flex-col overflow-y-auto overflow-x-hidden p-3">
-  <div class={`block ${cx.header}`}>
-    <div class={`${cx.branding} font-mono lg:p-8 `}>
+  <div class={`block header`}>
+    <div class={`branding font-mono lg:p-8 `}>
       <div class="lg:flex mb-12 sm:mb-0 flex-col justify-center items-center">
         <div
-          style={{right: 0}}
+          style={`right=0;`}
           class={clsx(
-            cx.portrait,
+            "portrait",
             `flex md:pr-8 justify-end items-center md:items-start block lg:absolute lg:mt-0 mb-6 lg:mb-0`,
           )}>
-          <Tooltip
-            class="lg:-mt-1 mr-2"
-            style={{transform: 'translateY(0px)'}}
-          />
-          <div class={cx.polaroid}>
-            <PixelPic
-              width={110}
-              height={130}
-              pixelSize={picDim.pixelSize}
-            />
+          Tooltip
+          <div class={'polaroid'}>
+            PixelPic
           </div>
         </div>
         <div class="flex flex-col items-center">
@@ -133,7 +131,9 @@
     </div>
     <div class="">
       <h3 class="mt-3 text-lg sm:mt-0">Interests</h3>
-      <AboutVis class="" width={width} style={{height: 509}} />
+      <AboutVis class="" width={width} style={
+        ''
+        } />
     </div>
   </div>
 </div>

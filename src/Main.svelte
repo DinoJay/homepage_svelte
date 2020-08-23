@@ -2,14 +2,19 @@
   import Tailwindcss from "./Tailwindcss.svelte";
   import clsx from 'clsx';
   import Nav from './Nav.svelte';
+  import {location} from 'svelte-spa-router'
+  import Home from './components/Home/index.svelte';
 
   let back = true;
   const clickHandler = () => {
-      console.log('click');
       back = !back
 
     }
 
+    /* const route = () => { */
+    /*   if($location === '/') return Home; */
+    /*  */
+    /* } */
 
 </script>
 
@@ -124,7 +129,6 @@
           <div
             class="front flex flex-col flex-grow overflow-hidden pb-6"
             style={''}>
-            PassiveElement
           </div>
           <div
             class={clsx(
