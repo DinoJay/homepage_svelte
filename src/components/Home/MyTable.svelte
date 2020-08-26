@@ -1,12 +1,12 @@
 <script>
-  import beerIcon from './pics/beer-icon.png';
-  import coffeeIcon from './pics/take-away.svg';
-  import jsLogo from './pics/js_logo.svg';
-  import reactLogo from './pics/react_logo.svg';
-  import d3Logo from './pics/d3_logo.svg';
-  import vinylIcon from './pics/music.svg';
-  import headphonesIcon from './pics/headphones.svg';
-  import astroIcon from './pics/astro.png';
+  const beerIcon = '/pics/beer-icon.png';
+  const coffeeIcon  = '/pics/take-away.svg';
+  const jsLogo = '/pics/js_logo.svg';
+  const reactLogo = '/pics/react_logo.svg';
+  const d3Logo = '/pics/d3_logo.svg';
+  const vinylIcon = '/pics/music.svg';
+  const headphonesIcon = '/pics/headphones.svg';
+  const astroIcon = '/pics/astro.png';
 </script>
 <table class={`text-sm lg:text-base`}>
   <tr>

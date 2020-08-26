@@ -19,7 +19,6 @@
 </script>
 
 <style>
-
   a {
     @apply .text-black;
     font-style: italic;
@@ -129,6 +128,7 @@
           <div
             class="front flex flex-col flex-grow overflow-hidden pb-6"
             style={''}>
+            PassiveElement
           </div>
           <div
             class={clsx(

@@ -1,7 +1,8 @@
 
 <script>
   import SomethingAboutMe from './SomethingAboutMe.svelte';
-  import AboutVis from './AboutVis.svelte'
+  /* import AboutVis from './AboutVis.svelte' */
+  import MyTable from './MyTable.svelte';
 
 </script>
 
@@ -117,7 +118,6 @@
           <h1 class="mb-2 text-4xl p-1 border-black border-b-4 border-t-4 flex-no-grow">
             Jan Maushagen
           </h1>
-          <SocialMedia />
         </div>
       </div>
     </div>
@@ -131,9 +131,6 @@
     </div>
     <div class="">
       <h3 class="mt-3 text-lg sm:mt-0">Interests</h3>
-      <AboutVis class="" width={width} style={
-        ''
-        } />
     </div>
   </div>
 </div>
