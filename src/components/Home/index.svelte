@@ -1,5 +1,6 @@
 
 <script>
+  import clsx from 'clsx';
   import SomethingAboutMe from './SomethingAboutMe.svelte';
   /* import AboutVis from './AboutVis.svelte' */
   import MyTable from './MyTable.svelte';

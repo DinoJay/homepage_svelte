@@ -11,10 +11,11 @@
 
     }
 
-    /* const route = () => { */
-    /*   if($location === '/') return Home; */
-    /*  */
-    /* } */
+    const route = () => {
+      if($location === '/') return Home;
+      return Home
+
+    }
 
 </script>
 
@@ -38,6 +39,7 @@
     height: 100%;
     transition: 0.6s;
     transform-style: preserve-3d;
+    position:relative;
 
   }
 
@@ -116,30 +118,29 @@
   >
   <Nav style="max-width: 300px;"/>
     <div
-      class="flex-grow relative flex lg:mb-10 lg:mx-1 relative fixed"
-
-      style="">
-      <div class={`flipContainer flex flex-grow `} >
+      class="flex-grow flex lg:mb-10 lg:mx-1 relative fixed"
+      style="max-width: 800px; height: 500px">
+    <div class={`flipContainer flex flex-grow `} >
+      <div
+        class={`flipper flex-grow flex-col flex `}
+        style="transform:
+        { back ? 'rotateX(180deg)' : 'rotateX(0deg)' }"
+        >
         <div
-          class={`flipper flex-grow flex-col flex `}
-          style="transform:
-          { back ? 'rotateX(180deg)' : 'rotateX(0deg)' }"
-          >
-          <div
-            class="front flex flex-col flex-grow overflow-hidden pb-6"
-            style={''}>
-            PassiveElement
-          </div>
-          <div
-            class={clsx(
-              'back flex flex-col overflow-y-auto overflow-hidden',
-              !back && 'pointer-events-none',
-            )}
-            style={{zIndex: !back && -11}}>
-            ActiveElement
-          </div>
+          class="front flex flex-col flex-grow overflow-hidden pb-6"
+          style={''}>
+          PassiveElement
+        </div>
+        <div
+          class={clsx(
+            'back flex flex-col h-full overflow-y-auto overflow-hidden',
+            !back && 'pointer-events-none',
+          )}
+          style="zIndex: { !back && -11 }">
+          <svelte:component this={route()}></svelte:component>
         </div>
       </div>
+    </div>
     </div>
     </div>
 </main>
